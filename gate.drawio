@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T17:50:38.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PEpfSq7-RC5uftSqyWLC" version="20.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-24T01:15:50.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="joXzGOhVe_b62iMDu4gp" version="20.4.2" type="github" pages="2">
   <diagram id="mfiKfkjJzIvuQUybL6jh" name="第 1 页">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KH66DWDsaf4ZbXt8UYhP" name="第 2 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
         <mxCell id="7E8WRfQAm1rNe2kDd9eS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gHBrXWLeLmUF-09Cx0ag-8" target="7E8WRfQAm1rNe2kDd9eS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gHBrXWLeLmUF-09Cx0ag-8" value="等待2秒，检测是否成交" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gHBrXWLeLmUF-09Cx0ag-8" value="等待2秒" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="370" width="117.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7E8WRfQAm1rNe2kDd9eS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7E8WRfQAm1rNe2kDd9eS-1" target="7E8WRfQAm1rNe2kDd9eS-3">
